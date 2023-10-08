@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+        font-size: 15px;
+        background-color: hsl(212, 45%, 89%);
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+        font-family: 'Outfit', sans-serif;
+        color: hsl(218, 44%, 22%);
+        margin-top: 22px;
+        margin-bottom: 25px;
+        margin-left: 18px;
+        margin-right: 18px;
+        
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+        font-family: 'Outfit', sans-serif;
+        color: hsl(220, 15%, 55%);
+        margin: 10px;
+        margin-bottom: 30px;
+}
+.qr {
+    border-radius: 10px;
+    width: 275px;
+
+}
+
+.top {
+    border-radius:20px;
+    width: 275px;
+    height: 450px;
+    padding: 15px;
+    
+    
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+background-color: hsl(0, 0%, 100%);    
+}
